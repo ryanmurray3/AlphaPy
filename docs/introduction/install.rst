@@ -23,7 +23,7 @@ Anaconda Python
 
     .. line-block::
 
-        conda create -n alphapy python=3.5
+        conda create -n alphapy python=3.8
         source activate alphapy
         conda install -c conda-forge bokeh
         conda install -c conda-forge ipython
